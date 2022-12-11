@@ -6,8 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/BallScene1208.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/VRScene1208.unity
+    guid: b22fa7b3c4eae974d8c91f51f224b9d8
   m_configObjects:
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: a602c34dc14376c408194b5705b75ed3,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f010c8b47c29f644aa1b9ede7e70efad,
       type: 2}
